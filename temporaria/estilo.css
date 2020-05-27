@@ -1,0 +1,56 @@
+#cabecalho{
+    display: flex
+    
+}
+
+body{
+    background-color: black;
+    font-family:
+}
+
+a{
+    fon
+    color: orange
+}
+
+#containertotal{
+    background-image: linear-gradient(black,#404040);
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#containertotal2{
+    background-color: black;
+}
+
+#navbar{
+    display: flex;
+    justify-content: center;
+    margin-bottom:5px;
+}
+
+
+#3destaques{
+    background-color: blue
+}
+
+#rodape{
+    display: flex
+}
+
+#logocgrafia{
+    margin-top: 10px;
+    display: flex
+}
+
+#imagemprincipal{
+    padding-left: 350px
+    
+}
+
+#imgcentral{
+    width:60%
+    
+}
+ 
+
